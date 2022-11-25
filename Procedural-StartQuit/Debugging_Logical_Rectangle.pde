@@ -1,0 +1,3 @@
+void DebuggingLogicalRectangle() {
+
+}//End DebuggingLogicalRectangle
